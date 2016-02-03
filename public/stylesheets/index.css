@@ -1,0 +1,38 @@
+<style>
+body {
+      background-size: 1400px 700px;
+      background-image: url("../images/wallpaper.jpg");
+      background-size : auto;
+      }
+    
+ body  {
+           background-size: 1400px 700px;
+      background-image: url("../images/wallpaper.jpg");
+      background-size : auto; 
+          
+            }
+h1 {
+    color: black;
+    text-align: right;
+    margin-left: 150px;
+    font-family: 'Arvo', sans-serif;
+    font-size: 4em;
+    font-weight: 100;
+    position: relative;
+    margin-top: 30%;
+    letter-spacing: 8px;
+
+} 
+    h2{
+    color: #143269;
+    text-align: right;
+    margin-left: 155px;
+    font-family: 'Abel', sans-serif;
+    font-size: 2em;
+    font-weight: 400;
+    position: relative;
+    margin-top: 1%;
+    letter-spacing: 7px;
+    }
+    
+</style>
